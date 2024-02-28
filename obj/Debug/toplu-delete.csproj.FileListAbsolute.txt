@@ -1,0 +1,11 @@
+C:\Users\nihat.ozkurt\Desktop\toplu-delete\toplu-delete\bin\Debug\toplu-delete.exe.config
+C:\Users\nihat.ozkurt\Desktop\toplu-delete\toplu-delete\bin\Debug\toplu-delete.exe
+C:\Users\nihat.ozkurt\Desktop\toplu-delete\toplu-delete\bin\Debug\toplu-delete.pdb
+C:\Users\nihat.ozkurt\Desktop\toplu-delete\toplu-delete\obj\Debug\toplu-delete.csproj.AssemblyReference.cache
+C:\Users\nihat.ozkurt\Desktop\toplu-delete\toplu-delete\obj\Debug\toplu-delete.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat.ozkurt\Desktop\toplu-delete\toplu-delete\obj\Debug\toplu_delete.Form1.resources
+C:\Users\nihat.ozkurt\Desktop\toplu-delete\toplu-delete\obj\Debug\toplu_delete.Properties.Resources.resources
+C:\Users\nihat.ozkurt\Desktop\toplu-delete\toplu-delete\obj\Debug\toplu-delete.csproj.GenerateResource.cache
+C:\Users\nihat.ozkurt\Desktop\toplu-delete\toplu-delete\obj\Debug\toplu-delete.csproj.CoreCompileInputs.cache
+C:\Users\nihat.ozkurt\Desktop\toplu-delete\toplu-delete\obj\Debug\toplu-delete.exe
+C:\Users\nihat.ozkurt\Desktop\toplu-delete\toplu-delete\obj\Debug\toplu-delete.pdb
